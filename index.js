@@ -12,20 +12,20 @@ image1.setAttribute("src", randomImageSource);
 switch(randomNumber1)
 {
 case 1:
-document.querySelector("h1").innerHTML = "🚩SUKESH";
+document.querySelector("h1").innerHTML = "🚩 <br> SUKESH";
 break;
 case 2:
-document.querySelector("h1").innerHTML = "🚩SALMAN";
+document.querySelector("h1").innerHTML = "🚩 <br> SALMAN";
 break;
 case 3:
-document.querySelector("h1").innerHTML = "🚩SHARUQ";
+document.querySelector("h1").innerHTML = "🚩 <br> SHARUQ";
 break;
 case 4:
-document.querySelector("h1").innerHTML = "🚩KEERTHANA";
+document.querySelector("h1").innerHTML = "🚩 <br> KEERTHANA";
 break;
 case 5:
-document.querySelector("h1").innerHTML = "🚩VISMAY";
+document.querySelector("h1").innerHTML = "🚩 <br> VISMAY";
 break;
 case 6:
-document.querySelector("h1").innerHTML = "🚩MUTHU";
+document.querySelector("h1").innerHTML = "🚩 <br> MUTHU";
 }
